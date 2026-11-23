@@ -7,3 +7,6 @@ This project is an AI-powered agent capable of handling both structured (CSV) an
 2. **Query Engine Creation**: Sets up query engines for each data source. The Pandas query engine is used for structured data, and a vector store index is used for unstructured data.
 3. **Tool Integration**: Custom tools, such as the note-taking tool, are added to extend the agent’s capabilities.
 4. **Query Handling**: The agent selects the appropriate query engine or tool based on the context and user query, allowing it to pull information from the correct source.
+
+
+* need to update the readme file to add the mechanism to RAG 
