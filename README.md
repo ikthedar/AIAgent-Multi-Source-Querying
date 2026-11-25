@@ -9,4 +9,4 @@ This project is an AI-powered agent capable of handling both structured (CSV) an
 4. **Query Handling**: The agent selects the appropriate query engine or tool based on the context and user query, allowing it to pull information from the correct source.
 
 
-* need to update the readme file to add the mechanism to RAG 
+* need to update the readme file to add the mechanism to integrate RAG based architecture.
